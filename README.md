@@ -18,13 +18,10 @@ MonkeyMedia Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
-
-# Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/icons/Home Screen.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/icons/Sign In Screen.png">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/icons/Tabs Screen.png">  
