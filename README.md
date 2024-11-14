@@ -20,9 +20,6 @@ MonkeyMedia Mobile App.
 # Home Screen
 <img src="assets/images/screenshot/onboarding.png">  
 
-# Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
-
 # Sign In Screen
 <img src="assets/images/screenshot/login.png">  
 
